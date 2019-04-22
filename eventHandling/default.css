@@ -1,0 +1,38 @@
+body {
+    background:url(https://images5.alphacoders.com/418/thumb-1920-418892.jpg);
+
+    font-family: sans-serif;
+}
+img {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 100px auto;
+    border-radius: 60%;
+}
+button {
+    background: lightpink;
+    border: none;
+    border-radius: 5px;
+    color: red;
+    font-size: 24px;
+    width: 480px;
+    padding: 40px 0;
+    margin: 0px -20px;
+    outline: none;
+    cursor: pointer;
+
+}
+.spoiler {
+    background: pink;
+    width: 440px;
+    margin: 0 auto 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+.spoiler span {
+    color: red;
+    display: block;
+    padding: 30px 10px;
+}
